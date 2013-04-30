@@ -6,7 +6,7 @@ require File.join(File.dirname(__FILE__), 'lib/ruote/version')
 
 Gem::Specification.new do |s|
 
-  s.name = 'ruote'
+  s.name = 'ruote-maestrodev'
   s.version = Ruote::VERSION
   s.platform = Gem::Platform::RUBY
   s.authors = [ 'John Mettraux', 'Kenneth Kalmer', 'Torsten Schoenebaum' ]
